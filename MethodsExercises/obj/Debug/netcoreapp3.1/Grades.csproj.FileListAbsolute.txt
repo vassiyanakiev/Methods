@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\MethodsExercises\bin\Debug\netcoreapp3.1\Grades.exe
+C:\Users\PC\source\repos\MethodsExercises\bin\Debug\netcoreapp3.1\Grades.deps.json
+C:\Users\PC\source\repos\MethodsExercises\bin\Debug\netcoreapp3.1\Grades.runtimeconfig.json
+C:\Users\PC\source\repos\MethodsExercises\bin\Debug\netcoreapp3.1\Grades.runtimeconfig.dev.json
+C:\Users\PC\source\repos\MethodsExercises\bin\Debug\netcoreapp3.1\Grades.dll
+C:\Users\PC\source\repos\MethodsExercises\bin\Debug\netcoreapp3.1\Grades.pdb
+C:\Users\PC\source\repos\MethodsExercises\obj\Debug\netcoreapp3.1\Grades.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\MethodsExercises\obj\Debug\netcoreapp3.1\Grades.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\MethodsExercises\obj\Debug\netcoreapp3.1\Grades.AssemblyInfo.cs
+C:\Users\PC\source\repos\MethodsExercises\obj\Debug\netcoreapp3.1\Grades.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MethodsExercises\obj\Debug\netcoreapp3.1\Grades.dll
+C:\Users\PC\source\repos\MethodsExercises\obj\Debug\netcoreapp3.1\Grades.pdb
+C:\Users\PC\source\repos\MethodsExercises\obj\Debug\netcoreapp3.1\Grades.genruntimeconfig.cache
